@@ -4,3 +4,4 @@ pydantic
 httpx
 beautifulsoup4
 sqlalchemy
+slowapi==0.1.9

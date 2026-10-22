@@ -15,7 +15,7 @@
 - **HTTPX (Async HTTP Client)**
 - **BeautifulSoup4**
 - **Render (Cloud Deployment)**
-
+- **Docker & Containerization**
 ## 🔗 Live Demo & Documentation:
 👉 # AI Web Scraper & Intelligence API
 

@@ -17,7 +17,8 @@
 - **Render (Cloud Deployment)**
 - **Docker & Containerization**
 ## 🔗 Live Demo & Documentation:
-👉 # AI Web Scraper & Intelligence API
+- **API Key Security & Rate Limiting (SlowAPI)**
+
 
 ინტელექტუალური ვებ-სქრეიპერი და საიტების ანალიტიკური მიკროსერვისი, აგებული Python, FastAPI, BeautifulSoup4, HTTPX და SQLAlchemy-ზე.
 

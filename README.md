@@ -27,13 +27,5 @@
 - **Database Integration:** დასქრეიპული ისტორიის ავტომატური შენახვა SQLite მონაცემთა ბაზაში (`SQLAlchemy`).
 - **Data Analytics:** საიტის სათაურის, კონტენტის სნიპეტისა და ელემენტების რაოდენობის ანალიზი.
 
-## 🛠 ტექნოლოგიები:
-- **Python**
-- **FastAPI**
-- **SQLAlchemy (SQLite Database)**
-- **HTTPX (Async HTTP Client)**
-- **BeautifulSoup4**
-- **Render (Cloud Deployment)**
-
 ## 🔗 Live Demo & Documentation:
 👉 [Swagger UI Documentation](https://ai-web-scraper-api-2cwx.onrender.com/docs)
